@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://cintiaiha.github.io/sitemap.xml
